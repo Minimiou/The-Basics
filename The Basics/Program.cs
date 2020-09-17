@@ -13,6 +13,8 @@ namespace The_Basics
 
             Console.WriteLine("Hello World");
 
+            Console.ReadLine();
+
         }
     }
 }
